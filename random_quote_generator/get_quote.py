@@ -1,4 +1,5 @@
 import random
+
 from random_quote_generator.quotes import quotes
 
 
